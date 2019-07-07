@@ -1,3 +1,4 @@
-println("Hello world!");
-println("hello");
+println("Hello world!")
+println("hello")
+
 
